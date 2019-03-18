@@ -15,4 +15,9 @@ cout << "A + B = " << a + b << '\n'
         cout<<" Max:"<<a;
      else
         cout<<" Max:"<<b;
+    if(a<b)
+        cout<<" Min:"<<a;
+     else
+        cout<<" Min:"<<b;
+
 }
