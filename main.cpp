@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//kk
 int main()
 {
 cout << "Enter A and B: ";
